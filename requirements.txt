@@ -1,0 +1,4 @@
+pypdf>=5.5
+click
+pytest
+reportlab
